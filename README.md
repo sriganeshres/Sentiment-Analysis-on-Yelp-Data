@@ -138,14 +138,12 @@ Potential enhancements for future iterations include:
 
 ## Conclusion
 
-The Sentiment Analysis Pipeline project successfully demonstrates the integration of streaming data processing with machine learning for real-time sentiment analysis. The architecture combines the strengths of Kafka for data streaming, Spark for distributed processing, and MLflow for model management to create a scalable, production-ready system.
-
-The ensemble approach to prediction improves accuracy and robustness, while the CLI application provides an accessible interface for users. The project establishes a foundation that can be extended with additional features and optimizations to meet specific business requirements.
-
-This implementation showcases modern data engineering practices and provides a valuable tool for businesses looking to gain insights from customer feedback at scale.
+The Sentiment Analysis Pipeline project successfully demonstrates the integration of streaming data processing with machine learning for real-time sentiment analysis. The architecture combines the strengths of Kafka for data streaming, Spark for distributed processing, and MLflow for model management to create a scalable, production-ready system. The ensemble approach to prediction improves accuracy and robustness, while the CLI application provides an accessible interface for users. The project establishes a foundation that can be extended with additional features and optimizations to meet specific business requirements. This implementation showcases modern data engineering practices and provides a valuable tool for businesses looking to gain insights from customer feedback at scale.
 
 ## Team
 
 - **[Thota Sri Ganesh (B22CS054)](https://github.com/sriganeshres)**
 
 - **[Purmani Rahul Reddy(B22CS041)](https://github.com/rahulrangers)**
+
+**Project Repository**: [Github](https://github.com/sriganeshres/Sentiment-Analysis-on-Yelp-Data)
